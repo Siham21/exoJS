@@ -1,0 +1,20 @@
+section
+{
+ border: 1px solid blue;
+}
+
+.container {
+/* On ajoute une marge sur les cotés de l’écran */
+padding-right: 15px;
+padding-left: 15px;
+
+/* Et on centre */
+margin-right: auto;
+margin-left: auto;
+}
+
+.p2 {
+  font-style: italic;
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+}
